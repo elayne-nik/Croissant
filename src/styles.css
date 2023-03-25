@@ -1,12 +1,16 @@
 body {
-  background-color: aquamarine;
+  background-color: #adf7d1;
 }
 h1,
 p {
   text-align: center;
 }
-.links {
+footer {
   text-align: center;
+}
+footer a {
+  margin: 0 10px;
+  color: #8971d0;
 }
 img {
   display: block;
